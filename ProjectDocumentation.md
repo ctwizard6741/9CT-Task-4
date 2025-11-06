@@ -24,4 +24,6 @@ M(Minus): Doesn't have a clear objective so it can confuse new users to the game
 I(Implication): It is an open world game so it gives freedom to users but no clear objective will confuse users. 
 
 Roblox:
-P(Plus): Has many different types of games which gives a variety of thwmes and a clear objective for users 
+P(Plus): Has many different types of games which gives a variety of thwmes and a clear objective for users. 
+M(Minus): Too many objectives won't give a main theme for the game and may not be beginner friendly as new users may not understand how to function the game. 
+I(Implication): Game has different objectives sets clear game expectations for users however too may objectives causes the game to have no main theme to it and makes it not very beginner friendly for new users.
