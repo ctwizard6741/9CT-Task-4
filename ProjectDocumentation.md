@@ -27,3 +27,45 @@ Roblox:
 P(Plus): Has many different types of games which gives a variety of thwmes and a clear objective for users. 
 M(Minus): Too many objectives won't give a main theme for the game and may not be beginner friendly as new users may not understand how to function the game. 
 I(Implication): Game has different objectives sets clear game expectations for users however too may objectives causes the game to have no main theme to it and makes it not very beginner friendly for new users.
+
+
+Pseudocodes: 
+User input pseudocode
+
+START
+
+// Check input every single frame
+If D key is pressed THEN
+Move the character forward
+
+ENDIF
+
+If A key is pressed THEN
+Move the character backwards
+
+ENDIF
+
+If space bar is clicked THEN
+Character must jump
+
+ENDIF
+
+Update position of character
+
+END
+
+Game pseudocode: 
+
+START
+
+Load main menu
+If quit button is pressed THEN
+End game
+
+If play button is pressed THEN
+Start game
+
+If checkpoint is collected THEN
+Progress character to next level
+
+END
