@@ -14,3 +14,14 @@ Non Functional: The game must run smoothly, protect user privacy and security an
 
 Social and Ethical Issues
 Social and ethical concerns must be taken into consideration when making this game. It must respect user privacy and security, the game will have no online chats or mulitplayer features to avoid cyberbullying, it must be inclusive and accessible for all people regardless of ability and should make sure that users screen time and wellbeing are controlled through the fact that the game is designed for short gameplay sessions.
+
+Researching and Planning: 
+There are couple of games that I feel have the same values that my game does and have taken inspiration from. I have also made a PMI chart to see the positives and the neagtives of these games that I have taken inspiration from. 
+
+Minecratft: 
+P(Plus): The gameis highly engaging and requires creativiyt and it's simple blocky desgins makes it easier for new users to understand inputs and functions. 
+M(Minus): Doesn't have a clear objective so it can confuse new users to the game as to what they are requitred to do and the game is designed for long gaming sessions so it can impact user wellbeing. 
+I(Implication): It is an open world game so it gives freedom to users but no clear objective will confuse users. 
+
+Roblox:
+P(Plus): Has many different types of games which gives a variety of thwmes and a clear objective for users 
